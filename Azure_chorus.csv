@@ -1,0 +1,53 @@
+Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
+3362P1	    1	10K				Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal	~
+BT1,BT2	    2	CRONA				Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	
+C1,C9,C21	3	100n					~
+C2,C22,C23	3	47n					~
+C3	        1	470n					~
+C4,C7	    2	6n8					~
+C5,C6   	2	100p					~
+C8,C25	    2	1u					~
+C10	        1	10n					~
+C11,C14,C17	3	33n					~
+C12	        1	2n2					~
+C13	        1	8n2					~
+C15,C20     2	470p					~
+C16	        1	47p					~
+C18	        1	3n3					~
+C19	        1	8n3					~
+C24	        1	200u					~
+D1	        1	1N4739A				
+D2	        1	1N5817				
+D3,D4	    2	1N914				
+D5	        1	LED				
+J1	        1	IN				
+J2	        1	OUT				
+MIX1	    1	250kC				
+Q1,Q2,Q3,Q4,Q5	
+            5	2N5088				
+R1,R24,R25,R41,R43	
+            5	4K7					~
+R2,R3,R8,R9,R11,R16,R22,R29,R30,R31,R34,R37,R38,R39,R40,R42	
+            16	10K					~
+R4	        1	33R					~
+R5	        1	2M2					~
+R6	        1	1K					~
+R7	        1	470K					~
+R10,R12,R13,R14,R15	
+            5	47K					~
+R17	        1	470R					~
+R18,R32     2	100K					~
+R19	        1	47M					~
+R20,R28	    2	33K					~
+R21,R33	    2	1M					~
+R23 	    1	150K					~
+R26 	    1	220K					~
+R27	        1	56K					~
+R35	        1	300K
+R36	        1	2K7
+RV3,RV4	    2	100KB
+SW1	        1	SW_DPDT_x2
+U1	        1	RC4558				
+U2	        1	MN3207				
+U3	        1	MN3102				
+U4	        1	TL022				
