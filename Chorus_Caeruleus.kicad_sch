@@ -9067,7 +9067,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0acc255a-7752-4381-a79e-49f1f5a782b5")
-		(property "Reference" "R65"
+		(property "Reference" "R64"
 			(at 233.045 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9131,7 +9131,7 @@
 		(instances
 			(project "Azure_chorus"
 				(path "/738e02f3-8b44-4a7f-854b-b4c60cc26898"
-					(reference "R65")
+					(reference "R64")
 					(unit 1)
 				)
 			)
@@ -10131,7 +10131,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e6454de-0b42-442c-a01f-0966000e2a26")
-		(property "Reference" "R64"
+		(property "Reference" "R65"
 			(at 254.635 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10195,7 +10195,7 @@
 		(instances
 			(project "Azure_chorus"
 				(path "/738e02f3-8b44-4a7f-854b-b4c60cc26898"
-					(reference "R64")
+					(reference "R65")
 					(unit 1)
 				)
 			)
@@ -11996,7 +11996,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4ea5b3e9-ac46-4482-aead-8a190cf8db58")
-		(property "Reference" "C44"
+		(property "Reference" "C45"
 			(at 125.73 103.505 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12060,7 +12060,7 @@
 		(instances
 			(project "Azure_chorus"
 				(path "/738e02f3-8b44-4a7f-854b-b4c60cc26898"
-					(reference "C44")
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -12328,7 +12328,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "51d65c23-9914-4d73-9122-3b91bdb23881")
-		(property "Reference" "Q5"
+		(property "Reference" "Q2"
 			(at 165.735 139.7001 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12420,7 +12420,7 @@
 		(instances
 			(project "Azure_chorus"
 				(path "/738e02f3-8b44-4a7f-854b-b4c60cc26898"
-					(reference "Q5")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -12519,7 +12519,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "560d4b5e-f964-4732-a3d1-660aa81582fa")
-		(property "Reference" "Q9"
+		(property "Reference" "Q6"
 			(at 210.312 106.426 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12611,7 +12611,7 @@
 		(instances
 			(project "Azure_chorus"
 				(path "/738e02f3-8b44-4a7f-854b-b4c60cc26898"
-					(reference "Q9")
+					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -13793,8 +13793,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "67ecb74f-14f0-4d1e-bd1d-b4ae6ab91c5f")
-		(property "Reference" "C61"
-			(at 239.649 119.888 0)
+		(property "Reference" "C62"
+			(at 239.395 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13857,7 +13857,7 @@
 		(instances
 			(project "Azure_chorus"
 				(path "/738e02f3-8b44-4a7f-854b-b4c60cc26898"
-					(reference "C61")
+					(reference "C62")
 					(unit 1)
 				)
 			)
@@ -15550,7 +15550,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7ffc87c3-bb93-41b2-9bf3-43bab6890b03")
-		(property "Reference" "C15"
+		(property "Reference" "C44"
 			(at 144.272 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15614,7 +15614,7 @@
 		(instances
 			(project "Azure_chorus"
 				(path "/738e02f3-8b44-4a7f-854b-b4c60cc26898"
-					(reference "C15")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -17197,7 +17197,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a0329695-212d-4c45-b1ae-35dd696fce7b")
-		(property "Reference" "Q11"
+		(property "Reference" "Q9"
 			(at 233.045 67.564 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17262,7 +17262,7 @@
 		(instances
 			(project "Azure_chorus"
 				(path "/738e02f3-8b44-4a7f-854b-b4c60cc26898"
-					(reference "Q11")
+					(reference "Q9")
 					(unit 1)
 				)
 			)
@@ -19324,7 +19324,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c3f2d341-9c5e-4890-98bb-39949a48f06f")
-		(property "Reference" "Q2"
+		(property "Reference" "Q5"
 			(at 73.66 127.254 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19416,7 +19416,7 @@
 		(instances
 			(project "Azure_chorus"
 				(path "/738e02f3-8b44-4a7f-854b-b4c60cc26898"
-					(reference "Q2")
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -21897,8 +21897,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ef434af2-a194-4310-921e-f6f88b8673d5")
-		(property "Reference" "C62"
-			(at 248.031 119.888 0)
+		(property "Reference" "C61"
+			(at 248.285 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21961,7 +21961,7 @@
 		(instances
 			(project "Azure_chorus"
 				(path "/738e02f3-8b44-4a7f-854b-b4c60cc26898"
-					(reference "C62")
+					(reference "C61")
 					(unit 1)
 				)
 			)
