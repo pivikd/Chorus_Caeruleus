@@ -60,9 +60,9 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.3,
+          "min_clearance": 0.25,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
+          "min_thickness": 0.2,
           "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
@@ -157,7 +157,7 @@
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
-        "min_text_thickness": 0.08,
+        "min_text_thickness": 0.15,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.2,
         "min_via_annular_width": 0.2,
@@ -510,7 +510,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Azure_chorus.kicad_pro",
+    "filename": "Chorus_Caeruleus.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -1004,8 +1004,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Azure_chorus.kicad_sch",
-        "name": "Azure_chorus",
+        "filename": "Chorus_Caeruleus.kicad_sch",
+        "name": "Chorus_Caeruleus",
         "uuid": "738e02f3-8b44-4a7f-854b-b4c60cc26898"
       }
     ],
@@ -1015,7 +1015,7 @@
   "sheets": [
     [
       "738e02f3-8b44-4a7f-854b-b4c60cc26898",
-      "Azure_chorus"
+      "Chorus_Caeruleus"
     ]
   ],
   "text_variables": {},
